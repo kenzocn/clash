@@ -1,5 +1,8 @@
 # USBank
 DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,americanexpress.com
+DOMAIN-KEYWORD,americanexpress
+DOMAIN-KEYWORD,amex
 DOMAIN-SUFFIX,equifax.com
 DOMAIN-SUFFIX,sablecard.com
 DOMAIN-SUFFIX,stripe.com
