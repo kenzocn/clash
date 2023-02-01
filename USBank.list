@@ -1,15 +1,28 @@
 # USBank
 DOMAIN-SUFFIX,capitalone.com
+DOMAIN-KEYWORD,capitalone
+# AMEX
+DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,aexp-static.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-KEYWORD,americanexpress
 DOMAIN-KEYWORD,amex
-DOMAIN-SUFFIX,equifax.com
 DOMAIN-SUFFIX,sablecard.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,joinellis.com
 DOMAIN-KEYWORD,stripe
-DOMAIN-KEYWORD, appsflyersdk
+DOMAIN-KEYWORD,appsflyersdk
+# paypal
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,honey.io
+DOMAIN-SUFFIX,dyneti.com
 DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
-DOMAIN-KEYWORD,paypal
+# other
 DOMAIN-KEYWORD,dolphin
+DOMAIN-SUFFIX,equifax.com
