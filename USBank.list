@@ -15,7 +15,9 @@ DOMAIN-SUFFIX,sablecard.com
 DOMAIN-KEYWORD,stripe
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,joinellis.com
-DOMAIN-KEYWORD,appsflyersdk
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
 # paypal
 DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
