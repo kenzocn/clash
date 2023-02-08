@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,hilton.com.cn
 DOMAIN-SUFFIX,marriott.com
 DOMAIN-SUFFIX,marriott.com.cn
 IP-CIDR,185.113.183.62/32,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
