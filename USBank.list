@@ -1,8 +1,16 @@
 # USBank
 DOMAIN-SUFFIX,capitalone.com
 DOMAIN-KEYWORD,capitalone
+# Varo
+DOMAIN-KEYWORD,varo
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,quantummetric.com
+DOMAIN-SUFFIX,varomoney.com
+DOMAIN-SUFFIX,segment.com
 # AMEX
 DOMAIN-KEYWORD,amex
+DOMAIN-KEYWORD,americanexpress
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,aexp-static.com
 DOMAIN-SUFFIX,demdex.net
