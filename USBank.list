@@ -34,6 +34,9 @@ DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,honey.io
 DOMAIN-SUFFIX,dyneti.com
 DOMAIN-SUFFIX,qualtrics.com
+# AMEX
+DOMAIN-KEYWORD,chase
+DOMAIN-SUFFIX,chase.com
 # other
 DOMAIN-KEYWORD,dolphin
 DOMAIN-SUFFIX,equifax.com
