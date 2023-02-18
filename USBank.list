@@ -25,15 +25,6 @@ DOMAIN-SUFFIX,joinellis.com
 DOMAIN-KEYWORD,appsflyer
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,intercom.io
-# paypal
-DOMAIN-KEYWORD,paypal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,adjust.com
-DOMAIN-SUFFIX,honey.io
-DOMAIN-SUFFIX,dyneti.com
-DOMAIN-SUFFIX,qualtrics.com
 # Chase
 DOMAIN-KEYWORD,chase
 DOMAIN-SUFFIX,chase.com
@@ -42,5 +33,5 @@ DOMAIN-KEYWORD,dolphin
 DOMAIN-SUFFIX,equifax.com
 DOMAIN-KEYWORD,coinbase
 DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,wise.com
