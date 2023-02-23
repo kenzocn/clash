@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,quantummetric.com
 DOMAIN-SUFFIX,varomoney.com
 DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,iesnare.com
+DOMAIN-SUFFIX,popmoney.com
+DOMAIN-SUFFIX,checkfreeweb.com
+DOMAIN-SUFFIX,cashedge.com
 # AMEX
 DOMAIN-KEYWORD,amex
 DOMAIN-KEYWORD,americanexpress
