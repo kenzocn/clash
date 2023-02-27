@@ -3,5 +3,7 @@ DOMAIN-SUFFIX,n26.com
 DOMAIN-SUFFIX,hsbc.fr
 DOMAIN-SUFFIX,hsbc.uk
 DOMAIN-SUFFIX,hsbc.co.uk
+# skrill
 DOMAIN-KEYWORD,skrill
 DOMAIN-SUFFIX,skrill.com
+DOMAIN-SUFFIX,pushio.com
