@@ -1,4 +1,5 @@
 # 回国补充
+DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,wechat
 DOMAIN-KEYWORD,weixin
 DOMAIN-KEYWORD,tencent
@@ -16,3 +17,4 @@ DOMAIN-SUFFIX,qzone.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,antgroup.com
 DOMAIN-SUFFIX,alipayplus.com
+DOMAIN-SUFFIX,fliggy.com
