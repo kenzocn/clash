@@ -1,3 +1,5 @@
 # Speedtest
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN,speed.dler.io
