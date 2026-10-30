@@ -1,0 +1,18 @@
+# 回国补充
+DOMAIN-KEYWORD,wechat
+DOMAIN-KEYWORD,weixin
+DOMAIN-KEYWORD,tencent
+DOMAIN-KEYWORD,tlive
+DOMAIN-KEYWORD,qlive
+DOMAIN-KEYWORD,tenpay
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,youku
+DOMAIN-SUFFIX,wxgateway.com
+DOMAIN-SUFFIX,tcdnlive.com
+DOMAIN-SUFFIX,qlivecdn.com
+DOMAIN-SUFFIX,qzone.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,antgroup.com
+DOMAIN-SUFFIX,alipayplus.com
