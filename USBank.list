@@ -1,47 +1,27 @@
 # USBank
-DOMAIN-SUFFIX,capitalone.com
+# Capitalone
 DOMAIN-KEYWORD,capitalone
-# Varo
-DOMAIN-KEYWORD,varo
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,segment.io
-DOMAIN-SUFFIX,quantummetric.com
-DOMAIN-SUFFIX,varomoney.com
-DOMAIN-SUFFIX,segment.com
-DOMAIN-SUFFIX,iesnare.com
-DOMAIN-SUFFIX,popmoney.com
-DOMAIN-SUFFIX,checkfreeweb.com
-DOMAIN-SUFFIX,cashedge.com
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,capitalonebank.com
 # AMEX
 DOMAIN-KEYWORD,amex
 DOMAIN-KEYWORD,americanexpress
-DOMAIN-SUFFIX,optimizely.com
-DOMAIN-SUFFIX,aexp-static.com
-DOMAIN-SUFFIX,demdex.net
-DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,americanexpress.com
-DOMAIN-KEYWORD,americanexpress
-DOMAIN-SUFFIX,sablecard.com
-# ELLIS
-DOMAIN-KEYWORD,stripe
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,joinellis.com
-DOMAIN-KEYWORD,appsflyer
-DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,aexp-static.com
+DOMAIN-SUFFIX,aexp.com
+DOMAIN-SUFFIX,amex.com
 # Chase
 DOMAIN-KEYWORD,chase
 DOMAIN-SUFFIX,chase.com
-# other
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,walmart.com
-DOMAIN-KEYWORD,dolphin
-DOMAIN-KEYWORD,flyert.com
-DOMAIN-SUFFIX,equifax.com
-DOMAIN-KEYWORD,coinbase
-DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,chasecdn.com
+DOMAIN-SUFFIX,jpmorganonline.com
+DOMAIN-SUFFIX,jpmorganchase.com
+# WISE
+DOMAIN-KEYWORD,wise
 DOMAIN-SUFFIX,wise.com
-DOMAIN-SUFFIX,ip2world.com
-DOMAIN-SUFFIX,venmo.com
-DOMAIN-SUFFIX,ebay.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,transferwise.tech
+# Paypal
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
